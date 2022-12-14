@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 **Latest Blog posts** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000xNHXZEA4/how-to-learn-360-with-the-cisco-learning-network 
                         
-                        https://learningnetwork.cisco.com/s/blogs/a0D6e00000sRFJIEA4/my-first-common-vulnerability-exposure-cve-a-devnet-journey-part-1
+**Latest Blog posts** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000sRFJIEA4/my-first-common-vulnerability-exposure-cve-a-devnet-journey-part-1
