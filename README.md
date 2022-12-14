@@ -1,6 +1,6 @@
 - 👋 Hi,Bonjour,Jambo ! I’m @verlaine🧠 
 - 👀 I’m interested in Network Automation,Technical writing,Tech story telling,Community Building 
-- 💻 **Devnet colony member** - Self taught
+- regular contributor to the Cisco network automation community 
 - 📚 Bookworm,Life long learner,a brain fueled by Curiosity
 - 📫 Twitter [Verlaine Devnet](https://twitter.com/Verlaine_Devnet)     Linkedin [Verlaine j muhungu](https://www.linkedin.com/in/verlaine-j-muhungu-363507b2/)
 
