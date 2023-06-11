@@ -10,9 +10,19 @@
 verlaine-muhungu/verlaine-muhungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+**My Technical Articles**
 
-**Latest Blog posts** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000xNHXZEA4/how-to-learn-360-with-the-cisco-learning-network 
+**How to learn 360 degree with the Cisco learning network** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000xNHXZEA4/how-to-learn-360-with-the-cisco-learning-network 
                         
-**Latest Blog posts** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000sRFJIEA4/my-first-common-vulnerability-exposure-cve-a-devnet-journey-part-1
+**My first common vulnerability exposure (CVE)** : https://learningnetwork.cisco.com/s/blogs/a0D6e00000sRFJIEA4/my-first-common-vulnerability-exposure-cve-a-devnet-journey-part-1
 
-**Latest Blog posts** : https://www.techtarget.com/searchnetworking/tip/A-guide-to-network-APIs-and-their-use-cases 
+**A guide to network Apis and their use cases** : https://www.techtarget.com/searchnetworking/tip/A-guide-to-network-APIs-and-their-use-cases 
+
+**How to interact with network apis using cURL and Postmantools**: https://www.techtarget.com/searchnetworking/tip/How-to-interact-with-network-APIs-using-cURL-Postman-tools
+
+**Python interpreter vs IDE,what network engineers should know**: https://www.techtarget.com/searchnetworking/tip/Python-interpreter-vs-IDE-What-network-engineers-should-know 
+
+
+
+
+
